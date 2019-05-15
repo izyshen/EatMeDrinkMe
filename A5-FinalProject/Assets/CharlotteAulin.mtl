@@ -1,0 +1,161 @@
+# Blender MTL File: 'CharlotteAulin.blend'
+# Material Count: 14
+
+newmtl Body
+Ns 47.058824
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.698329 0.548808
+Ks 0.005000 0.005000 0.005000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\WingsOfRetribution\AppData\Local\Temp\Temp1_i5ya4zxjwtmo-CharlotteAulin.zip\SkinBody_Dif.jpg
+map_Bump C:\\Users\\WingsOfRetribution\\AppData\\Local\\Temp\\Temp1_i5ya4zxjwtmo-CharlotteAulin.zip\\SkinBody_Nor.jpg
+
+newmtl Book
+Ns 292.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\Users\WingsOfRetribution\AppData\Local\Temp\Temp1_i5ya4zxjwtmo-CharlotteAulin.zip\Book_Dif.jpg
+map_Bump C:\\Users\\WingsOfRetribution\\AppData\\Local\\Temp\\Temp1_i5ya4zxjwtmo-CharlotteAulin.zip\\Book_Nor.jpg
+
+newmtl Eye
+Ns 17.647059
+Ka 1.000000 1.000000 1.000000
+Kd 0.179435 0.626571 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.001794 0.006266 0.008000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd D:\BlenderProjects\Characters\CASTLEVANIA_TalesOfLegends_Project\Characters\Models\Charlotte\Eye.png
+
+newmtl Feather
+Ns 47.058824
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.005000 0.005000 0.005000
+Ke 0.010000 0.010000 0.010000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl FontColor_01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+
+newmtl FontColor_02
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+
+newmtl Hair
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.049834 0.010390 0.002247
+Ks 0.021785 0.007182 0.002511
+Ke 0.000498 0.000104 0.000022
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd C:\Users\WingsOfRetribution\AppData\Local\Temp\Temp1_i5ya4zxjwtmo-CharlotteAulin.zip\Hair_Dif.png
+map_Bump C:\\Users\\WingsOfRetribution\\AppData\\Local\\Temp\\Temp1_i5ya4zxjwtmo-CharlotteAulin.zip\\Hair_Nor.jpg
+map_d C:\\Users\\WingsOfRetribution\\AppData\\Local\\Temp\\Temp1_i5ya4zxjwtmo-CharlotteAulin.zip\\Hair_Dif.png
+
+newmtl Mantle
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.008000 0.008000 0.008000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd C:\Users\WingsOfRetribution\AppData\Local\Temp\Temp1_i5ya4zxjwtmo-CharlotteAulin.zip\Mantle_Dif.png
+map_d C:\\Users\\WingsOfRetribution\\AppData\\Local\\Temp\\Temp1_i5ya4zxjwtmo-CharlotteAulin.zip\\Mantle_Dif.png
+
+newmtl None
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+
+newmtl Shirt
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.010000 0.010000 0.010000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd D:\BlenderProjects\Characters\CASTLEVANIA_TalesOfLegends_Project\Characters\Models\Charlotte\Shirt_Dif.png
+map_Bump -bm 0.500000 D:\\BlenderProjects\\Characters\\CASTLEVANIA_TalesOfLegends_Project\\Characters\\Models\\Charlotte\\Shirt_Nor.jpg
+map_d D:\\BlenderProjects\\Characters\\CASTLEVANIA_TalesOfLegends_Project\\Characters\\Models\\Charlotte\\Shirt_Dif.png
+
+newmtl Shoes
+Ns 0.000000
+Ka 0.150000 0.150000 0.150000
+Kd 0.800000 0.529670 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.008000 0.005297 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd C:\Users\WingsOfRetribution\AppData\Local\Temp\Temp1_i5ya4zxjwtmo-CharlotteAulin.zip\Mantle_Dif.png
+map_Bump C:\\Users\\WingsOfRetribution\\AppData\\Local\\Temp\\Temp1_i5ya4zxjwtmo-CharlotteAulin.zip\\Mantle_Nor.png
+map_d C:\\Users\\WingsOfRetribution\\AppData\\Local\\Temp\\Temp1_i5ya4zxjwtmo-CharlotteAulin.zip\\Mantle_Dif.png
+
+newmtl Skirt
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.010000 0.010000 0.010000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd C:\Users\WingsOfRetribution\AppData\Local\Temp\Temp1_i5ya4zxjwtmo-CharlotteAulin.zip\Skirt_Dif.png
+map_Bump -bm 0.500000 C:\\Users\\WingsOfRetribution\\AppData\\Local\\Temp\\Temp1_i5ya4zxjwtmo-CharlotteAulin.zip\\Skirt_Nor.jpg
+map_d C:\\Users\\WingsOfRetribution\\AppData\\Local\\Temp\\Temp1_i5ya4zxjwtmo-CharlotteAulin.zip\\Skirt_Dif.png
+
+newmtl Transparency
+Ns 47.058824
+Ka 0.450000 0.450000 0.450000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 3
+map_Kd D:\BlenderProjects\Characters\CASTLEVANIA_TalesOfLegends_Project\Characters\Models\Charlotte\Eye.png
+
+newmtl White
+Ns 47.058824
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.005000 0.005000 0.005000
+Ke 0.010000 0.010000 0.010000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\WingsOfRetribution\AppData\Local\Temp\Temp1_i5ya4zxjwtmo-CharlotteAulin.zip\SkinBody_Dif.jpg
